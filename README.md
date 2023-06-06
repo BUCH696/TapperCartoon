@@ -6,5 +6,7 @@ I'll leave a video of the Gameplay, if you like it, I can make a WEB version or 
 
 ## Management
 **W,A,S,D** - movement
+
 **E** - take the beer from the barrel/ put the bottle on the table
-**And** - buff on Super Beer. Yes, yes, Super beer)
+
+**B** - buff on Super Beer. Yes, yes, Super beer)
