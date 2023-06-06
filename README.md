@@ -10,5 +10,4 @@ I'll leave a video of the Gameplay, if you like it, I can make a WEB version or 
 **E** - take the beer from the barrel/ put the bottle on the table
 
 **B** - buff on Super Beer. Yes, yes, Super beer)
-
-[](https://github.com/BUCH696/TapperCartoon/blob/969f0f74deea4843a388a18371380f6b6ec5c91d/Tapper_Gameplay_AdobeExpress%20(3).gif)
+<a href="" target="blank"><img align="center" src="https://github.com/BUCH696/TapperCartoon/blob/969f0f74deea4843a388a18371380f6b6ec5c91d/Tapper_Gameplay_AdobeExpress%20(3).gif"/></a>
